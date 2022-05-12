@@ -1,4 +1,7 @@
 # Plantilla para SEO básico, Técnico y de contenido
+##### Version 0.1.12
+
+## Indice 
 
 1. Puntos básicos 
     - Dominio
@@ -59,6 +62,6 @@
 70. Google Tag Manager
 80. Google Analitycs
 90. Contenido
-    1. Arquitectura de información
-    2. Estudio de keywords
-    3. Marketing de contenido
+    - Arquitectura de información
+    - Estudio de keywords
+    - Marketing de contenido
