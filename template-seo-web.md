@@ -1,20 +1,20 @@
 # Plantilla para SEO básico, Técnico y de contenido
 
 1. Puntos básicos 
-    1. Dominio
-    2. SSL
-    3. Idiomas\Hreflang
-    4. Fichero robots.txt 
+    - Dominio
+    - SSL
+    - Idiomas\Hreflang
+    - Fichero robots.txt 
         - Control de bots
-    5. Fichero sitemap.xml
-    6. Definición de punto inicial
-    7. Definir un listado de keywords por página
+    - Fichero sitemap.xml
+    - Definición de punto inicial
+    - Definir un listado de keywords por página
         - Google trends
         - Google search
         - Estudio de la competencia
 2. SEO Técnico
-    1. Indexabilidad
-    2. WPO 
+    - Indexabilidad
+    - WPO 
         - Tiempo de carga del primer byte
         - Redimensionado de imágenes
         - Carga optimizada de Google fonts
@@ -24,7 +24,7 @@
         - Utilizar caché
         - Minimizar las redirecciones
         - CDN
-    3. HTML relacionado con el SEO
+    - HTML relacionado con el SEO
         - Etiquetado 
             - Encabezados h1...h5
             - Estructura Html5
@@ -44,7 +44,7 @@
                 - Atributo Anchor
                 - Atributo Title 
                 - Atributo Rel
-    4. URLS
+    - URLS
         - Redirección WWW
         - Link Canonical
         - Urls limpias 
