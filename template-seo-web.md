@@ -1,5 +1,8 @@
 # Plantilla para SEO básico, Técnico y de contenido
+## Revisión de listado y actualización de conceptos 2022
 ##### Version 0.1.12
+
+---
 
 ## Indice 
 
@@ -34,9 +37,22 @@
                 - Header
                 - Nav
                 - Aside
+                - Main
                 - Section
                 - Article
                 - Footer
+                - Atributos ARIA
+                    - aria-checked
+                    - aria-label
+                    - aria-labelledby
+                    - aria-search
+                    - aria-banner
+                    - aria-presentation
+                    - aria-toolbar 
+                    - aria-menuitem 
+                    - aria-dialog
+                    - aria-link
+                    - Listado oficial [w3c](https://www.w3.org/TR/wai-aria/#namefromcontent)
         - Rich snippets
         - Imágenes
             - Atributo Alt
